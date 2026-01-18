@@ -60,6 +60,20 @@
           <userLists/>
           <userDefinedBrickList/>
         </object>
+        <object type="Sprite" spriteId="fcaf59a1-e942-4162-803d-223b87d9ce69" name="хуй (1)">
+          <lookList>
+            <look fileName="Мой актер или объект_#0.png" lookId="065a3f96-bd72-4a11-a80d-a004b513dbb6" name="хуй">
+              <isWebRequest>false</isWebRequest>
+              <valid>true</valid>
+            </look>
+          </lookList>
+          <soundList/>
+          <scriptList/>
+          <nfcTagList/>
+          <userVariables/>
+          <userLists/>
+          <userDefinedBrickList/>
+        </object>
       </objectList>
     </scene>
   </scenes>
